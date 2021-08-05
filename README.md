@@ -4,6 +4,7 @@
 🌱 I’m currently learning about **Storybook**, **Jest** and other **React** related tools  
 💬 Ask me about **React**, ~~not Angular~~ 🤷  
 📫 How to reach me: [![twitter](https://img.shields.io/badge/twitter-A9DBFA?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/sergiheras) [![linkedin](https://img.shields.io/badge/linkedin-FFF?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergiheras/)  
+💡 I've been learning at: [![freecodecamp](https://img.shields.io/badge/freecodecamp-FFF?style=flat-square&logo=freecodecamp&logoColor=000)](https://www.freecodecamp.org/sergi28)  
 📚 JS Frameworks: ♥️ React / 💔 Angular / 🧐 Vue  
 
 🙋 About me: I ♥️ English and I'm very passionate about computers 🖥️  
