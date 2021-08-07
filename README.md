@@ -30,38 +30,18 @@
   <a href="https://github.com/Sergih28/dotfiles">
     <img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/intel-core i7 7700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/nvidia-gtx 970 @4Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=FFF" />
-  </a>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/intel-core i7 7700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/nvidia-gtx 970 @4Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=FFF" />
   <br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019 13%22-999999?style=for-the-badge&logo=apple&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/macOS 10.15 Catalina-000000.svg?&style=for-the-badge&logo=apple&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
-  </a>
+  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019 13%22-999999?style=for-the-badge&logo=apple&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/macOS 10.15 Catalina-000000.svg?&style=for-the-badge&logo=apple&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
   <br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Spanish%20%28native%29-AA151B?style=for-the-badge&logo=&logoColor=FFF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Catalan%20%28native%29-FFD900?style=for-the-badge&logo=&logoColor=FFF" />
-  </a>
+  <img src="https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Spanish%20%28native%29-AA151B?style=for-the-badge&logo=&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Catalan%20%28native%29-FFD900?style=for-the-badge&logo=&logoColor=FFF" />
 </p>
 
 ## ℹ️ About me
@@ -77,9 +57,9 @@
 
 ## 💻 Languages / Frameworks / Libraries
 
-[![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)]()
-[![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFF)]()
-[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)]()
+![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)
+![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFF)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 [![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF)](https://github.com/sass/sass)
 [![typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF)](https://github.com/microsoft/TypeScript)
 [![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFF)](https://www.python.org/)
