@@ -27,19 +27,41 @@
 <p align="center">
   💻 My workspace
   <br/><br/>
-  <img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/intel-core i7 7700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/nvidia-gtx 970 @4Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=FFF" />
+  <a href="https://github.com/Sergih28/dotfiles">
+    <img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/intel-core i7 7700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/nvidia-gtx 970 @4Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=FFF" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019 13%22-999999?style=for-the-badge&logo=apple&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/macOS 10.15 Catalina-000000.svg?&style=for-the-badge&logo=apple&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019 13%22-999999?style=for-the-badge&logo=apple&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/macOS 10.15 Catalina-000000.svg?&style=for-the-badge&logo=apple&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/Spanish%20%28native%29-AA151B?style=for-the-badge&logo=&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/Catalan%20%28native%29-FFD900?style=for-the-badge&logo=&logoColor=FFF" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Spanish%20%28native%29-AA151B?style=for-the-badge&logo=&logoColor=FFF" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Catalan%20%28native%29-FFD900?style=for-the-badge&logo=&logoColor=FFF" />
+  </a>
 </p>
 
 ## ℹ️ About me
@@ -55,17 +77,17 @@
 
 ## 💻 Languages / Frameworks / Libraries
 
-![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)
-![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFF)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF)
-![typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF)
+[![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)]()
+[![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFF)]()
+[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)]()
+[![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF)](https://github.com/sass/sass)
+[![typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF)](https://github.com/microsoft/TypeScript)
 [![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFF)](https://www.python.org/)
 [![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=FFF)](https://www.php.net/)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=FFF)](https://www.json.org/)
-![markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown&logoColor=FFF)
+[![markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown&logoColor=FFF)](https://www.markdownguide.org)
 [![vimscript](https://img.shields.io/badge/vimscript-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=FFF)](https://devhints.io/vimscript)
-![yaml](https://img.shields.io/badge/yaml-000?style=for-the-badge&logo=yaml&logoColor=FFF)
+[![yaml](https://img.shields.io/badge/yaml-000?style=for-the-badge&logo=yaml&logoColor=FFF)](https://yaml.org)
 [![toml](https://img.shields.io/badge/toml-000?style=for-the-badge&logo=toml&logoColor=FFF)](https://github.com/toml-lang/toml)  
 [![react](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DBFB)](https://github.com/facebook/react)
 [![nextjs](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=nextdotjs&logoColor=FFF)](https://github.com/vercel/next.js)
@@ -101,7 +123,7 @@
 [![pacman](https://img.shields.io/badge/pacman-000?style=for-the-badge&logo=pacman&logoColor=FFF)](https://wiki.archlinux.org/title/pacman)  
 [![bspwm](https://img.shields.io/badge/bspwm-000?style=for-the-badge&logo=bspwm&logoColor=FFF)](https://github.com/baskerville/bspwm)
 [![qtile](https://img.shields.io/badge/qtile-000?style=for-the-badge&logo=qtile&logoColor=FFF)](https://github.com/qtile/qtile)  
-[![arch-linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF)](https://archlinux.org/)
+[![arch-linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF)](https://github.com/Sergih28/dotfiles)
 [![macOS](https://img.shields.io/badge/mac%20OS-000?style=for-the-badge&logo=apple&logoColor=FFF)](https://www.apple.com/macos)
 [![windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFF)](https://www.microsoft.com/en-us/windows)
 
