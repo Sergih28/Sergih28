@@ -123,3 +123,7 @@
 ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergih28&layout=compact&theme=yeblu)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergih28&layout=compact&theme=yeblu)
+
+## 🏆 Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=Sergih28&row=2&column=3&margin-w=15&margin-h=15&theme=dracula)
