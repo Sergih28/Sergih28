@@ -108,7 +108,7 @@
 [![macOS](https://img.shields.io/badge/mac%20OS-000?style=for-the-badge&logo=apple&logoColor=FFF)](https://www.apple.com/macos)
 [![windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFF)](https://www.microsoft.com/en-us/windows)
 
-## Projects
+## 👨‍💻 Projects
 
 | Year              | Project                                                                            |
 |-------------------|------------------------------------------------------------------------------------|
