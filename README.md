@@ -104,6 +104,8 @@
 [![pacman](https://img.shields.io/badge/pacman-000?style=for-the-badge&logo=pacman&logoColor=FFF)](https://wiki.archlinux.org/title/pacman)  
 [![bspwm](https://img.shields.io/badge/bspwm-000?style=for-the-badge&logo=bspwm&logoColor=FFF)](https://github.com/baskerville/bspwm)
 [![qtile](https://img.shields.io/badge/qtile-000?style=for-the-badge&logo=qtile&logoColor=FFF)](https://github.com/qtile/qtile)  
+[![alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)  
 [![arch-linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF)](https://github.com/Sergih28/dotfiles)
 [![macOS](https://img.shields.io/badge/mac%20OS-000?style=for-the-badge&logo=apple&logoColor=FFF)](https://www.apple.com/macos)
 [![windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFF)](https://www.microsoft.com/en-us/windows)
