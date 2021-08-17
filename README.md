@@ -46,8 +46,8 @@
 
 ## ℹ️ About me
 
-🔭 I'm currently working on something cool using **React**  
-🎓 I’m currently learning about **Storybook**, **Jest** and other **React** related tools  
+🔭 I'm currently working on something cool using **Vue**  
+🎓 I’m currently learning **Vue**, **Storybook**, **Jest**  
 💬 Ask me about **React**, ~~not Angular~~ 🤷  
 📚 JS Frameworks: ♥️ React / 💔 Angular / 🧐 Vue  
 
