@@ -116,13 +116,14 @@
 
 ## 👨‍💻 Projects
 
-| Year              | Project                                                                            |
-|-------------------|------------------------------------------------------------------------------------|
-| **2020 - active** | [Endurance Planner (private)](https://endurance-planner.web.app)                   |
-| **2020**          | [My Simracing Stats (private)](https://sergi-heras.herokuapp.com)                  |
-| **2020**          | **[Downloads Automation](https://github.com/Sergih28/downloads-automation)**       |
-| **2019**          | **[Setup Comparator (rFactor 2)](https://github.com/Sergih28/setup-comparator)**   |
-| **2018**          | [Engineer me (private)](https://sergih28.gitlab.io/engineer-me/)                   |
+| Year              | Project                                                                          |
+|-------------------|----------------------------------------------------------------------------------|
+| **2021 - active** | **[Technergy Academy](https://github.com/goras-dev/technergy-academy)**          |
+| **2020 - active** | [Endurance Planner (private)](https://endurance-planner.web.app)                 |
+| **2020**          | [My Simracing Stats (private)](https://sergi-heras.herokuapp.com)                |
+| **2020**          | **[Downloads Automation](https://github.com/Sergih28/downloads-automation)**     |
+| **2019**          | **[Setup Comparator (rFactor 2)](https://github.com/Sergih28/setup-comparator)** |
+| **2018**          | [Engineer me (private)](https://sergih28.gitlab.io/engineer-me/)                 |
 
 ## 📊 Stats
 
