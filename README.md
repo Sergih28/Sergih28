@@ -118,6 +118,7 @@
 
 | Year              | Project                                                                          |
 |-------------------|----------------------------------------------------------------------------------|
+| **2021 - active** | **[Foodies Organizer](https://github.com/Sergih28/foodies-organizer)**           |
 | **2021 - active** | **[Technergy Academy](https://github.com/goras-dev/technergy-academy)**          |
 | **2020 - active** | [Endurance Planner (private)](https://endurance-planner.web.app)                 |
 | **2020**          | [My Simracing Stats (private)](https://sergi-heras.herokuapp.com)                |
