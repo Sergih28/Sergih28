@@ -52,7 +52,7 @@
 📚 JS Frameworks: ♥️ React / 💔 Angular / 🧐 Vue  
 
 🙋 About me: I ♥️ English and I'm very passionate about computers 🖥️  
-✨ Hobby: I like to [drive](https://www.twitch.tv/sergi28tv) 🏎️  
+✨ Hobby: I like to [drive and program](https://www.twitch.tv/sergi28tv) 🏎️  
 💭 My Dream: 🇨🇦 Canada  
 
 ## 📚 Languages / Frameworks / Libraries
