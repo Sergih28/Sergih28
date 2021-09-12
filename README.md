@@ -46,13 +46,14 @@
 
 ## ℹ️ About me
 
-🔭 I'm currently working on [something cool](https://github.com/goras-dev/technergy-academy) using **Vue**  
-🎓 I’m currently learning **Vue**, **Vuex**, **Nuxtjs**, **Quasar**, **Storybook** and **Jest**  
+🔭 I'm currently working on [something cool](https://github.com/Sergih28/setup-comparator)  
+🎓 I’m currently learning **Storybook** and **Jest**  
+📘 I want to learn: **Vue**, **Vuex**, **Nuxtjs**  
 💬 Ask me about **React**, ~~not Angular~~ 🤷  
 📚 JS Frameworks: ♥️ React / 💔 Angular / 🧐 Vue  
 
 🙋 About me: I ♥️ English and I'm very passionate about computers 🖥️  
-✨ Hobby: I like to [drive and program](https://www.twitch.tv/sergi28tv) 🏎️  
+✨ Hobby: I like to [drive and program on twitch](https://www.twitch.tv/sergi28tv) 🏎️  
 💭 My Dream: 🇨🇦 Canada 🇨🇦  
 
 ## 📚 Languages / Frameworks / Libraries
@@ -70,13 +71,10 @@
 [![yaml](https://img.shields.io/badge/yaml-000?style=for-the-badge&logo=yaml&logoColor=FFF)](https://yaml.org)
 [![toml](https://img.shields.io/badge/toml-000?style=for-the-badge&logo=toml&logoColor=FFF)](https://github.com/toml-lang/toml)  
 [![react](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DBFB)](https://github.com/facebook/react)
-[![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/vuejs/vue)
 [![nextjs](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=nextdotjs&logoColor=FFF)](https://github.com/vercel/next.js)
-[![nuxtjs](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=FFF)](https://github.com/nuxt/nuxt.js)
 [![redux](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=FFF)](https://github.com/reduxjs/redux)
-[![vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/vuejs/vuex)  
+[![styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/styled-components/styled-components)
 [![material-ui](https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=FFF)](https://github.com/mui-org/material-ui)
-[![quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=FFF)](https://github.com/quasarframework/quasar)
 [![ant design](https://img.shields.io/badge/ant%20design-1890FF?style=for-the-badge&logo=antdesign&logoColor=FFF)](https://github.com/ant-design/ant-design)
 [![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=FFF)](https://github.com/twbs/bootstrap)
 [![materialize-css](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=FFF)](https://github.com/Dogfalo/materialize)
@@ -116,15 +114,15 @@
 
 ## 👨‍💻 Projects
 
-| Year              | Project                                                                          |
-|-------------------|----------------------------------------------------------------------------------|
-| **2021 - active** | **[Foodies Organizer](https://github.com/Sergih28/foodies-organizer)**           |
-| **2021 - active** | **[Technergy Academy](https://github.com/goras-dev/technergy-academy)**          |
-| **2020 - active** | [Endurance Planner (private)](https://endurance-planner.web.app)                 |
-| **2020**          | [My Simracing Stats (private)](https://sergi-heras.herokuapp.com)                |
-| **2020**          | **[Downloads Automation](https://github.com/Sergih28/downloads-automation)**     |
-| **2019**          | **[Setup Comparator (rFactor 2)](https://github.com/Sergih28/setup-comparator)** |
-| **2018**          | [Engineer me (private)](https://sergih28.gitlab.io/engineer-me/)                 |
+| Year        | Project                                                                          |
+|-------------|----------------------------------------------------------------------------------|
+| **2019 🔴** | **[Setup Comparator (rFactor 2)](https://github.com/Sergih28/setup-comparator)** |
+| **2021 🛑** | **[Foodies Organizer](https://github.com/Sergih28/foodies-organizer)**           |
+| **2021 🛑** | **[Technergy Academy](https://github.com/goras-dev/technergy-academy)**          |
+| **2020 🛑** | [Endurance Planner (private)](https://endurance-planner.web.app)                 |
+| **2020 🛑** | [My Simracing Stats (private)](https://sergi-heras.herokuapp.com)                |
+| **2020 🟢** | **[Downloads Automation](https://github.com/Sergih28/downloads-automation)**     |
+| **2018 🟢** | [Engineer me (private)](https://sergih28.gitlab.io/engineer-me/)                 |
 
 ## 📊 Stats
 
