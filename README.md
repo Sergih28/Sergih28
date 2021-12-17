@@ -6,6 +6,8 @@
 
 <p align="center">
     I'm a passionate web developer looking forward to learn and improve every day!
+    <br/>
+    You can check my dotfiles <a href="https://github.com/Sergih28/dotfiles">here</a>
 </p>
 
 <p align="center">
@@ -27,9 +29,7 @@
 <p align="center">
   💻 My workspace
   <br/><br/>
-  <a href="https://github.com/Sergih28/dotfiles">
-    <img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF" />
-  </a>
+  <img src="https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=FFF" />
   <img src="https://img.shields.io/badge/intel-core i7 7700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=FFF" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
