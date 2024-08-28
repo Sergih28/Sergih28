@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/nvidia-gtx 970 @4Gb-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=FFF" />
   <br/>
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019 13%22-999999?style=for-the-badge&logo=apple&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/macOS 10.15 Catalina-000000.svg?&style=for-the-badge&logo=apple&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/macOS 14 Sonoma-000000.svg?&style=for-the-badge&logo=apple&logoColor=FFF" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=FFF" />
   <br/>
   <img src="https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=&logoColor=FFF" />
