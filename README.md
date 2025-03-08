@@ -130,8 +130,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergih28&theme=yeblu)](https://git.io/streak-stats)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergih28&layout=compact&theme=yeblu)
-
 ## 🏆 Trophies
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=Sergih28&row=2&column=3&margin-w=15&margin-h=15&theme=dracula)
